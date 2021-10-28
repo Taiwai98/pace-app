@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "968285176877",
+    "project_id": "pace-booking-app",
+    "storage_bucket": "pace-booking-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968285176877:android:2cf6661f7f8780cb38e4a4",
+        "android_client_info": {
+          "package_name": "com.testapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968285176877-v3ovnj1k3oikmkqbd964motsp6udmmg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testapp.app",
+            "certificate_hash": "fa24b101fba3391ff2ef6ee8d7c771371bf18c55"
+          }
+        },
+        {
+          "client_id": "968285176877-7gl5qkc0k42sqb8lajtove28mubbuuhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyepthn1BcbsgkzaCEPRCc4hd2_hzh574"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968285176877-7gl5qkc0k42sqb8lajtove28mubbuuhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
